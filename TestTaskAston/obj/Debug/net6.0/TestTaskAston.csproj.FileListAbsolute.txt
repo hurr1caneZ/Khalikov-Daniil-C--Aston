@@ -1,0 +1,15 @@
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\bin\Debug\net6.0\TestTaskAston.exe
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\bin\Debug\net6.0\TestTaskAston.deps.json
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\bin\Debug\net6.0\TestTaskAston.runtimeconfig.json
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\bin\Debug\net6.0\TestTaskAston.dll
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\bin\Debug\net6.0\TestTaskAston.pdb
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.csproj.AssemblyReference.cache
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.AssemblyInfoInputs.cache
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.AssemblyInfo.cs
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.csproj.CoreCompileInputs.cache
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.dll
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\refint\TestTaskAston.dll
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.pdb
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\TestTaskAston.genruntimeconfig.cache
+C:\Users\sdc_a\RiderProjects\TestTaskAston\TestTaskAston\obj\Debug\net6.0\ref\TestTaskAston.dll
